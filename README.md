@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <h1>Hey There!</h1>
 <p>I'm a Full-stack/ Frontend developer, and I'm currently on the hunt for my big break in the industry! Bring on the challenges, the coding puzzles, and the opportunities to innovate and make a real difference in the digital world. So, Let's connect and make some amazing things happen!</p>
 
-<h2>Some Tools I Use</h2>
+<h2> Tools I Use: </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,vue,angular,css,html,js,vscode,nodejs,git,github,mongodb,postman&perline=5)](https://skillicons.dev)
 
 <h2>Let's Talk</h2>
   
-<a href="mailto:stamar46@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Tamar Shalem | Email"/></a>
-<a href="https://www.linkedin.com/in/tamar-shalem93"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tamar Shalem | LinkedIn" /></a>
+<a href="mailto:shira.shachar@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Shira Kantor | Email"/></a>
+<a href="https://www.linkedin.com/in/shira-kantor-05394769/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shira Kantor | LinkedIn" /></a>
